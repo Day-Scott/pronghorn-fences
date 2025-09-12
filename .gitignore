@@ -1,7 +1,5 @@
 # macOS junk
 .DS_Store
-
-# RStudio user-specific files
 .Rproj.user/
 .Rhistory
 .RData
