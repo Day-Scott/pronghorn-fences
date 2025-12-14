@@ -1,5 +1,14 @@
-.RData
-.Rhistory
-~$*
-purl_debug.R
+# macOS junk
+.DS_Store
 
+# R / RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Temporary files
+~$*
+
+# Optional: debug helper
+purl_debug.R
