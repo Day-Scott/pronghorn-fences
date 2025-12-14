@@ -1,0 +1,33 @@
+{
+    "id": "04D0D4E0",
+    "path": "~/Reproducible Science Final Project/Pronghorn.Rmd",
+    "project_path": "Pronghorn.Rmd",
+    "type": "r_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": true,
+    "created": 1765151781999.0,
+    "source_on_save": true,
+    "relative_order": 2,
+    "properties": {
+        "tempName": "Untitled2",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "13,8",
+        "scrollLine": "0",
+        "rmdVisualMode": "false",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "10283:4900",
+        "rmdVisualWrapConfigured": "true",
+        "docOutlineVisible": "0",
+        "last_setup_crc32": ""
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1765738754,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1765738925829,
+    "read_only": false,
+    "read_only_alternatives": []
+}
